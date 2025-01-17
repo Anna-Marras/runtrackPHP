@@ -1,3 +1,9 @@
+<?php /*  Créer une chaîne str qui contient “Certaineschoseschangent,etd'autres
+ nechangerontjamais.”. Créer un algorithme qui parcourt cette string en
+ remplaçant le premier caractère par le deuxième, le deuxième par le
+ troisième etc. et le dernier par le premier. */
+?>
+
 <?php
 // La chaîne d'origine
 $str = "Certaines choses changent, et d'autres ne changeront jamais.";

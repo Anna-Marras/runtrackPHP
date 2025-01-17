@@ -1,3 +1,11 @@
+<?php /* Créez une string nommée stret affectez-y “Onnestpaslemeilleurquand
+ onlecroitmaisquandonlesait”. Créez un dictionnaire nommé dic qui a
+ commekeys“consonnes” et “voyelles”. Créez un algorithme qui parcourt,
+ compte et stocke le nombre d'occurrences de consonnes et de voyelles de
+ str. Affichez ces résultats dans un tableau html qui a comme thead
+ “Voyelles” et “Consonnes”. */
+?>
+
 <?php
 // Chaîne donnée
 $str = "On n est pas le meilleur quand on le croit mais quand on le sait";

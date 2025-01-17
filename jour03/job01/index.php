@@ -1,3 +1,8 @@
+<?php /*  Créez un tableau contenant les nombres 200, 204, 173, 98, 171, 404, 459.
+ Parcourez ce tableau et affichez “Xestpaire<br/>” ou “Xestimpaire<br
+ />”, X prenant tour à tour chacune des valeurs comprises dans ce tableau. */
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -8,7 +13,7 @@
 <body>
     <?php
     // Tableau contenant les nombres
-    $numbers = [200, 204, 173, 98, 171, 404, 459];
+    $numbers = [200, 204, 173, 98, 171, 404, 459, 606, 153];
 
     // Parcours du tableau et vérification de la parité
     foreach ($numbers as $number) {

@@ -1,3 +1,8 @@
+<?php /* Créez une string nommée str et affectez-y “I'msorryDaveI'mafraidIcan't
+ dothat”. Créez un algorithme qui parcourt cette chaîne et affiche
+ uniquement les voyelles. */
+?>
+
 <?php
 // Déclaration de la chaîne
 $str = "I'm sorry Dave I'm afraid I can't do that";
