@@ -1,3 +1,7 @@
+<?php /* Affichez les nombres premiers jusqu’à 1000 en mettant un retour à la ligne
+ entre chaque nombre. */
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>

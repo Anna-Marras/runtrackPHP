@@ -1,3 +1,7 @@
+<?php /* Affichez tous les nombres de 0 à 1337 compris sauf 26, 37, 88, 1111 en mettant
+ un retour à la ligne entre chaque nombre. */
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>

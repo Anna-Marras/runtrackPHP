@@ -1,3 +1,9 @@
+<?php /*Affichez les nombres de 0 à 100 en mettant un retour à la ligne entre chaque nombre.
+ Si le nombre est entre 0 et 20 : écrire en italique.
+ Si le nombre est compris entre 25 et 50 : souligner le nombre.
+ Affichez “La Plateforme_” à la place de 42. */
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
