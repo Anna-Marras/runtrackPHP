@@ -1,3 +1,11 @@
+<?php /*En PHP, il existe différents types de variables. Créez des variables de types
+ primitifs (boolean, entier, chaîne de caractères, nombre à virgule flottante) et
+ affectez-y des valeurs.
+ À l’aide de php, générer un tableau html qui contient dans son header trois
+ colonnes (type, nom, valeur) et dans son body, une ligne pour chacune des
+ variables et de leurs informations. */
+?>
+
 <?php
 // Déclaration des variables de types primitifs
 $booleanVar = true;            // Variable de type booléen
