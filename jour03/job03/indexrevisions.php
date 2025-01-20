@@ -1,10 +1,8 @@
 <?php /* Créez une string nommée str et affectez-y “I'msorryDaveI'mafraidIcan't
  dothat”. Créez un algorithme qui parcourt cette chaîne et affiche
  uniquement les voyelles. */
-?>
 
-<?php
-$str = "I'msorryDaveI'mafraidIcan'tdothat";
+$str = "I'msorryDaveI'mafraidIcan'tdothat"
 $longueur = strlen($str);
 
 for ($i = 0; $i < $longueur; $i++) {
@@ -12,6 +10,5 @@ for ($i = 0; $i < $longueur; $i++) {
         echo $str[$i];
     }
 }
+
 ?>
-
-

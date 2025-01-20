@@ -16,9 +16,9 @@
 
         foreach ($tableau as $valeur) {
             if ($valeur % 2 == 0) {
-            echo "$valeur est paire<br>"; }
+            echo "$valeur estpaire<br>"; }
             else {
-            echo "$valeur est impair<br>"; }
+            echo "$valeur estimpair<br>"; }
         }
     ?>
  </body>
