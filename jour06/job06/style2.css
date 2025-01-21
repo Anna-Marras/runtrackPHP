@@ -1,0 +1,10 @@
+body {
+    background-color: lightgreen;
+    font-family: "Times New Roman", serif;
+}
+
+form {
+    padding: 20px;
+    border: 2px solid green;
+    background-color: white;
+}
